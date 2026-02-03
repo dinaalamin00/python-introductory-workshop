@@ -1,6 +1,7 @@
 import turtle
 
-# =========================================================
+#------------------------------------------------------------------------------
+
 # 👉 STUDENT INSTRUCTIONS 👈
 # You only need to change the VALUES passed to the 3 functions below.
 # Do NOT change anything else in the code.
@@ -15,7 +16,8 @@ import turtle
 #    - use color names like: "black", "white", "red", "blue", "green"
 #    "lightblue" "darkgreen" "navy" "gold" "violet" "turquoise" "salmon" "coral" "skyblue" "lime"
 # make sure to inform the mentor of your chosen changes and what values you used!
-# =========================================================
+
+#------------------------------------------------------------------------------
 
 def set_ball_speed(speed):
     global ball_dx, ball_dy
